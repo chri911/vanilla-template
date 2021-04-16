@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-template",
+  "version": "1.0.0",
+  "description": "Template for Vanilla frontend projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chri911/vanilla-template.git"
+  },
+  "keywords": [
+    "template",
+    "html",
+    "scss",
+    "javascript",
+    "parcel",
+    "eslint"
+  ],
+  "author": "chri911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chri911/vanilla-template/issues"
+  },
+  "homepage": "https://github.com/chri911/vanilla-template#readme"
+}
